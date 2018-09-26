@@ -19,7 +19,9 @@ An early innings sports studio and investment firm
 # Why We Exist
 Our mission is to be the most helpful platform in the world for founders at the opening tip or first pitch of a new sports project, story or company. As our name suggests, we are here to partner with teams bringing a fresh perspective to sport and culture at-large. Through a mix of funding, creative direction and design services, our goal is to build a dialogue and community at the intersection of sport, commerce and creativity.
 
-Unlike other industries and cultural categories, sports currently lacks a robust, proper framework to support new experiments and ideas. You can find a VC firm to invest in your sports idea, as long as it has a technology angle, but for those projects with the more DIY, grassroots, local ethos, we've yet to find a good crowdfunding tool, incubator, accelerator or co-working space to support these new projects. As the farmer's market empowered the local farmer, Kickstarter changed the game for creators and Y Combinator birthed a new breed of tech startups, Dewy Grass Club wants to do the same for sports makers, creators and visionaries.
+Unlike other industries and cultural categories, sports lacks a robust framework to support new experiments and ideas. You can find a VC firm to invest in your sports idea, as long as it has a technology angle, but for those projects with the more DIY, grassroots, local ethos, we've yet to find a good crowdfunding tool, incubator, accelerator or co-working space to support these new projects. As the farmer's market empowered the local farmer, Kickstarter changed the game for creators and Y Combinator birthed a new breed of tech startups, Dewy Grass Club wants to do the same for sports makers, creators and visionaries.
+
+We're here to be a fun-loving coach for the weird, experimental and avant-garde projects by and for the sports, outdoor and fitness community.
 
 # Areas of Focus
 
